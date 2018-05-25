@@ -1,2 +1,2 @@
-# TravelDestination
-mini quiz - choosing best destination to travel to according to criteria
+# MyProject2018
+mini java project - mini game
